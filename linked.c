@@ -55,7 +55,7 @@ free(temp);
 }
 else
 {
-printf("\n data not found\n");
+printf("\n data not found!!\n");
 }}
 struct node *findprev(int s)
 {
