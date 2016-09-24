@@ -25,6 +25,7 @@ int main()
 	{
 		printf("%d is greatest number",c);
 	}
+	//
 	return 0;
 
 	getch();
