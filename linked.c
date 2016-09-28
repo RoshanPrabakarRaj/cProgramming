@@ -1,5 +1,5 @@
 #include<stdio.h>
-//#include<conio.h>
+#include<conio.h>
 #include<alloc.h>
 #include<stdlib.h>
 struct node*find(int);
