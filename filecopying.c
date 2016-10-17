@@ -7,4 +7,6 @@ while(c!=EOF)
 {
 putchar(c);
 c=getchar();
-}}printf("%d",c);
+}
+}
+printf("%d",c);
