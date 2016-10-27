@@ -25,4 +25,3 @@ def drop_n(arr, n)
     arr.drop(n)
     # drop the first n elements of the array and return the rest
 end
-// end
