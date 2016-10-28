@@ -10,3 +10,4 @@ c=getchar();
 }
 }
 printf("%d",c);
+//printf("%d",c);
