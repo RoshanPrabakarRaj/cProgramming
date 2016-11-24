@@ -32,10 +32,7 @@ int main(){
 
     
 
-   // printf("%d",min);
-
-    //cutting function
-
+   
    while(1)
 
        {
