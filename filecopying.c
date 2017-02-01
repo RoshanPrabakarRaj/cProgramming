@@ -10,5 +10,4 @@ c=getchar();
 }
 }
 printf("%d",c);
-//}
 
